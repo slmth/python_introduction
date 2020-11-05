@@ -1,6 +1,6 @@
 #python intro less 4
 
-#input almak,if-else if-else komutlari
+#input almak,if/else if/else komutlari
 
 #INPUT (GIRDI) ALMAK
 
